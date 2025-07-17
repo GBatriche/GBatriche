@@ -5,21 +5,22 @@
 <img align="right" height="204" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pscGhzcjFsNGpmbDljNDN0b25jbXFoN3FvNWk2bGpsam1tN2p6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqoSzU4EimnW6qY/giphy.gif"  />
 
 ###
-
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GBatriche.GBatriche&"  />
 </div>
 
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-batriche/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@batricheg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
 
+###
 
 ###
 

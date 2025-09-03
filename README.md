@@ -1,4 +1,4 @@
-<h3 align="left"><b>Hi there!</b></h3><h4 align="left">I'm a data science student in Rio Branco, Acre.<br></h4><h3 align="left"><b>Let's connect!</b></h3>
+<h3 align="left"><b>Hi there!</b></h3><h4 align="left">I'm a software engineer student in Rio Branco, Acre.<br></h4><h3 align="left"><b>Let's connect!</b></h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-batriche/" target="_blank">
